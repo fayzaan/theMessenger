@@ -1,0 +1,11 @@
+{
+  "name": "themessenger",
+  "version": "1.0.0",
+  "description": "Messenger service that uses postMessage to send messages cross-origin Edit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohammed Faizan Qureshi",
+  "license": "ISC"
+}
